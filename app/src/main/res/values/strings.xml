@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Formulário</string>
+    <string name="entrar">Entrar</string>
+    <string name="cadastro">Ainda não tem uma conta? Clique aqui</string>
+    <string name="title_cadastro">Cadastre-se</string>
+    <string name="deslogar">Deslogar</string>
+</resources>
