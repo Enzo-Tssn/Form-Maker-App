@@ -65,7 +65,6 @@ public class MainActivity extends AppCompatActivity {
         i = 0;
 
         this.getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
-
         scrollLayout.setVerticalScrollBarEnabled(false);
 
         TextWatcher textWatcher = new TextWatcher() {
